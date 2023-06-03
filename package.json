@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "git+https://github.com/beneyalraj/React-tailwind_increment_decrement.git"   
   },
-  "author": "Pranay Gupta",
+  "author": "beneyal",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/beneyalraj/React-tailwind_increment_decrement.git"
   },
   "scripts": {
     "start": "react-scripts start",
